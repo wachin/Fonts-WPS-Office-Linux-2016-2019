@@ -1,5 +1,5 @@
 # Fonts-for-WPS-Office-Linux-2016-2019
-Fix Fonts for WPS Office Linux 2016, 2019 that are recognized in Family font style popup menu
+Fix Fonts to WPS Office Linux 2016, 2019 recognize Family font style in popup menu
 
 
 
